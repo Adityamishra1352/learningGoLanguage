@@ -1,0 +1,8 @@
+go help can give all the commands to get more information about the commands
+go env GOPATH is used to know the enviornment path of the go compiler
+the job of teh lexer is to see that the user who is writing the piece of code is typing the correct syntax not missing anything(are you following the rules or not)
+types:
+case insensitive: almost
+it can also be used to define wheather you are gonna use the variable in public or private
+variable type should be known in advance
+evrything is a type(regular types: String, bool, Integer, Floating, Complex, advanced types: array, slices, maps, structs, pointers)
