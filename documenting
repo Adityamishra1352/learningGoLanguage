@@ -6,3 +6,5 @@ case insensitive: almost
 it can also be used to define wheather you are gonna use the variable in public or private
 variable type should be known in advance
 evrything is a type(regular types: String, bool, Integer, Floating, Complex, advanced types: array, slices, maps, structs, pointers)
+there is nothing like try and catch in the go programming language, the go programming language user comma separated functionality wherein if there is no errror the reader gives the value to the input variable else if there is an error the reader gives the value to the err variable
+if one doesnt care about the error then they use _ instead of write a variable name like err which is also the case with the input, if one only cares about the error there is no need to use a variable like input just use _
