@@ -8,3 +8,10 @@ variable type should be known in advance
 evrything is a type(regular types: String, bool, Integer, Floating, Complex, advanced types: array, slices, maps, structs, pointers)
 there is nothing like try and catch in the go programming language, the go programming language user comma separated functionality wherein if there is no errror the reader gives the value to the input variable else if there is an error the reader gives the value to the err variable
 if one doesnt care about the error then they use _ instead of write a variable name like err which is also the case with the input, if one only cares about the error there is no need to use a variable like input just use _
+Why chose go over other programming languages for web development?
+the go programming language is very fast
+the go programming language has extensive libraries which can be used by the programmer with ease without using third party applications
+the go programming language is higher in simpliest as it is made keeping newbie learning and simpler syntax in mind it doent have inheritances and other things
+It can be compiled with just a simple command on the same page so it is very easy to handle and multiple requests can be made very easily
+it has a large number of cloud infrusture support systems like aws, google clound, azure 
+compiled statically type
