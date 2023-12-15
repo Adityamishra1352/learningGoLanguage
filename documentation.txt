@@ -1,3 +1,18 @@
+Learned how to program with from:
+
+https://youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa&si=TwagXZXThsBShnh5
+Hitesh Choudary
+
+
+https://youtube.com/playlist?list=PLve39GJ2D71yyECswi0lVaBm_gbnDRR9v&si=nu4f9v3-j_jCVkAp
+GoLang Dojo
+
+Documentations:
+
+https://go.dev/learn/
+
+https://gofr.dev/docs
+
 go help can give all the commands to get more information about the commands
 go env GOPATH is used to know the enviornment path of the go compiler
 the job of teh lexer is to see that the user who is writing the piece of code is typing the correct syntax not missing anything(are you following the rules or not)
